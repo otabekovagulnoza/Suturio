@@ -7,7 +7,7 @@
 
 ## 🌍 The Problem
 
-Every year, millions of patients undergo surgery. After discharge, **wound infections and complications** are among the leading causes of hospital readmission — often because patients cannot monitor their recovery at home, and visiting a doctor for every concern is costly and time-consuming.
+Every year, millions of patients undergo surgery. After discharge, **wound infections and complications** are among the leading causes of hospital readmission often because patients cannot monitor their recovery at home, and visiting a doctor for every concern is costly and time-consuming.
 
 In Uzbekistan and many developing countries, access to post-operative care is especially limited outside major cities.
 
@@ -15,7 +15,7 @@ In Uzbekistan and many developing countries, access to post-operative care is es
 
 ## 💡 Our Solution
 
-**Suturio** is a mobile app that connects a Bluetooth-enabled wearable sensor (patch) with a patient's smartphone to monitor surgical wound recovery in real time — and connect patients directly with specialists when needed.
+**Suturio** is a mobile app that connects a Bluetooth-enabled wearable sensor (patch) with a patient's smartphone to monitor surgical wound recovery in real time and connect patients directly with specialists when needed.
 
 ---
 
