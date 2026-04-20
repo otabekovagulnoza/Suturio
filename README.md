@@ -1,50 +1,86 @@
-# Welcome to your Expo app 👋
+# Suturio 🩺
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+> **Remote post-operative wound monitoring application**  
+> Built for Technovation Girls 2026
 
-## Get started
+---
 
-1. Install dependencies
+## 🌍 The Problem
 
-   ```bash
-   npm install
-   ```
+Every year, millions of patients undergo surgery. After discharge, **wound infections and complications** are among the leading causes of hospital readmission — often because patients cannot monitor their recovery at home, and visiting a doctor for every concern is costly and time-consuming.
 
-2. Start the app
+In Uzbekistan and many developing countries, access to post-operative care is especially limited outside major cities.
 
-   ```bash
-   npx expo start
-   ```
+---
 
-In the output, you'll find options to open the app in a
+## 💡 Our Solution
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+**Suturio** is a mobile app that connects a Bluetooth-enabled wearable sensor (patch) with a patient's smartphone to monitor surgical wound recovery in real time — and connect patients directly with specialists when needed.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+## ✨ Key Features
 
-When you're ready, run:
+| Feature | Description |
+|---|---|
+| 📡 **Live Sensor Monitoring** | Reads humidity & temperature data from a Bluetooth patch placed near the wound |
+| 📊 **Health Dashboard** | Real-time charts and health logs to track recovery progress |
+| 👩‍⚕️ **Specialist Directory** | Browse surgeons, wound care specialists, physiotherapists and more |
+| 💬 **In-App Chat** | Message your doctor directly, share photos of the wound |
+| 📅 **Appointment Booking** | Schedule consultations with available specialists |
+| 💳 **Secure Payment** | Pay via UzCard, Humo, or in-person at the clinic |
+| 🔔 **Smart Alerts** | Get notified when sensor readings go outside safe ranges |
+
+---
+
+## 📱 App Screens
+
+- **Sign In / Sign Up** — secure authentication
+- **Dashboard** — live sensor data, health logs, real-time charts
+- **Specialists** — searchable & filterable directory of doctors
+- **Specialist Profile** — detailed bio, reviews, availability & booking
+- **Chat** — direct messaging with your assigned doctor
+- **Appointment Booking** — pick a date, time and consultation type
+- **Payment** — UzCard / Humo card support with secure checkout
+- **Profile** — manage personal info, notifications and appointments
+
+---
+
+## 🛠 Tech Stack
+
+- **React Native** (Expo) — cross-platform iOS & Android
+- **TypeScript** — type-safe codebase
+- **Expo Router** — file-based navigation
+- **Bluetooth LE** — sensor communication
+- **React Native SVG** — real-time charts
+
+---
+
+## 🚀 Getting Started
 
 ```bash
-npm run reset-project
+# Clone the repository
+git clone https://github.com/otabekovagulnoza/Suturio.git
+cd Suturio
+
+# Install dependencies
+npm install
+
+# Start the app
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+Then scan the QR code with **Expo Go** (available on App Store & Google Play).
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
+## 👩‍💻 Team
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+Built with ❤️ by a team of young women developers from Uzbekistan  
+**Technovation Girls 2026**
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 📄 License
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+MIT License — see [LICENSE](./LICENSE) for details.
