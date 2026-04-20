@@ -1,7 +1,6 @@
 # Suturio 🩺
 
-> **Remote post-operative wound monitoring application**  
-> Built for Technovation Girls 2026
+
 
 ---
 
