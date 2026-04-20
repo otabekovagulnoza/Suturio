@@ -76,7 +76,7 @@ Then scan the QR code with **Expo Go** (available on App Store & Google Play).
 
 ## 👩‍💻 Team
 
-Built with ❤️ by a team of young women developers from Uzbekistan  
+Built with ❤️ by a team of young girls developers from Uzbekistan  
 **Hack4Health**
 
 ---
