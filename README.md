@@ -2,8 +2,6 @@
 
 
 
----
-
 ## 🌍 The Problem
 
 Every year, millions of patients undergo surgery. After discharge, **wound infections and complications** are among the leading causes of hospital readmission often because patients cannot monitor their recovery at home, and visiting a doctor for every concern is costly and time-consuming.
